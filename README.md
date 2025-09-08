@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cornelcroi-french-tax-mcp-badge.png)](https://mseep.ai/app/cornelcroi-french-tax-mcp)
+
 # French Tax MCP Server
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
