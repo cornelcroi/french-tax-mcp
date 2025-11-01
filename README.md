@@ -5,6 +5,10 @@
 
 An MCP (Model Context Protocol) server that provides French individual income tax calculations to AI assistants.
 
+<a href="https://glama.ai/mcp/servers/@cornelcroi/french-tax-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@cornelcroi/french-tax-mcp/badge" alt="French Tax Server MCP server" />
+</a>
+
 ## Current Functionality
 
 This MCP server currently supports:
