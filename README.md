@@ -1,5 +1,7 @@
 # French Tax MCP Server
 
+> **Archived. Experimental, no longer maintained.** Tax data covers 2023–2025 only. Do not rely on it for real tax decisions — check [impots.gouv.fr](https://www.impots.gouv.fr).
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
